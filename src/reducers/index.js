@@ -1,0 +1,9 @@
+const songsReducer = () => {
+    return [
+        {title: 'No Scrubs', duration: '4:05'},
+        {title: 'Macarena', duration: '2:35'},
+        {title: 'All Star', duration: '3:15'},
+        {title: 'I Want it That Way', duration: '4:15'}
+    ]
+}
+
